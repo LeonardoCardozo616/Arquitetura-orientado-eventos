@@ -53,4 +53,4 @@ O último consumidor é um gerenciador do pré-lançamento, portanto, não preci
 
 ![C4](Imagens/C4.png)
 
-Após vários testes, o programa mostro ser eficiente.
+Após vários testes, o programa mostro ser eficiente. Para mais detalhes entre no link do Github: https://github.com/LeonardoCardozo616/Arquitetura-orientado-eventos/tree/main
